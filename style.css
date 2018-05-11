@@ -1,0 +1,27 @@
+p {
+  font-size: 20px;
+  font-weight: bold;
+  color: #b364f3;
+  text-align: center;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  justify-content: center;
+}
+li {
+  width: 30px;
+  height: 30px;
+  margin-left: 5px;
+  border: 1px solid #b364f3;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  color: #b364f3;
+  background: #e5cdf8;
+  list-style: none;
+  justify-content: center;
+    display: flex;
+}
